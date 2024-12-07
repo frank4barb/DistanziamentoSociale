@@ -34,7 +34,7 @@ Puoi eseguire direttamente il progetto cliccando sul seguente link:
 
 - **index.html:** La struttura della pagina web.
 - **script.js:** La logica principale dell'applicazione, inclusa l'integrazione del modello COCO-SSD.
-- **style.css:** Foglio di stile per la personalizzazione dell'aspetto (non fornito in questa versione, ma citato nell'HTML).
+- **style.css:** Foglio di stile per la personalizzazione dell'aspetto.
 
 ## Note tecniche
 
