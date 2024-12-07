@@ -8,6 +8,11 @@ Un'applicazione web che utilizza la videocamera del dispositivo per rilevare per
 - **Avviso sonoro:** Genera un segnale acustico quando due o più persone sono troppo vicine tra loro.
 - **Visualizzazione in tempo reale:** Evidenzia le persone rilevate con riquadri, differenziando quelle che rispettano o violano il distanziamento sociale.
 
+## Prova il progetto
+
+Puoi eseguire direttamente il progetto cliccando sul seguente link:  
+[**Esegui il progetto Distanziamento Sociale**](https://frank4barb.github.io/DistanziamentoSociale/)
+
 ## Installazione
 
 1. Scarica o clona il repository.
